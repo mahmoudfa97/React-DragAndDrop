@@ -6,7 +6,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.aer{
+  display: flex;
+  justify-content: space-evenly;
+}
+.note{
+  display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: red;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
